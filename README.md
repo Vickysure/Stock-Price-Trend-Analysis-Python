@@ -52,6 +52,53 @@ Variables, data types, strings, arithmetic operators, comparison operators, logi
 - BETA recorded the lowest return, approximately negative 11.26 percent, moving from 151.00 to 134.00, classified as a strong downward trend.
 - GAMMA also posted a positive return, approximately 6.97 percent, but showed the highest average daily price range, 13.80, and the highest average trading volume, 2,800 shares, indicating it experienced the most active and volatile trading of the three stocks over the period.
 
+## Screenshots
+
+#### PROJECT MENU
+<p align="center">
+<img src="./screenshots/Menu.png" width="900">
+</p>
+
+#### Raw Records of the Stocks
+<p align="center">
+<img src="./screenshots/stock data.png" width="900">
+</p>
+
+#### ALPHA Stock Analysis
+<p align="center">
+<img src="./screenshots/Analyse Alpha.png" width="900">
+</p>
+<p align="center">
+<img src="./screenshots/Analyse Alpha 2.png" width="900">
+</p>
+
+#### BETA Stock Analysis
+<p align="center">
+<img src="./screenshots/Analyse Beta.png" width="900">
+</p>
+<p align="center">
+<img src="./screenshot/Analyse Beta 2.png" width="900">
+</p>
+
+#### GAMMA Stock Analysis
+<p align="center">
+<img src="./screenshots/Analyse Gamma.png" width="900">
+</p>
+<p align="center">
+<img src="./screenshots/Analyse Gamma 2.png" width="900">
+</p>
+
+#### Multi-Stock Comparison Analysis
+<p align="center">
+<img src="./screenshots/multi-stock comparison.png" width="900">
+</p>
+
+#### Successful Run of the Program
+<p align="center">
+<img src="./screenshots/successful run.png" width="900">
+</p>
+
+
 ## African Market Relevance
 This project reflects a small scale version of the kind of analysis real African market participants perform daily. Exchanges such as the Nigerian Exchange and the Ghana Stock Exchange publish historical price data, trading volumes, and market summaries that analysts use to track performance. <br>
 The African Securities Exchanges Association works to promote capital market development and data accessibility across the continent, and Nigeria's Securities and Exchange Commission has identified financial literacy and technology adoption as priorities in its Capital Market Master Plan. <br>
