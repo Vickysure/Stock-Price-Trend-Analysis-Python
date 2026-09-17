@@ -68,7 +68,7 @@ Interestingly, **10-Aug was also the highest-volume day for ALPHA (2,300) and BE
 
 ---
 
-## What Suprised me?
+## What Surprised me?
 
 What surprised me was GAMMA's combination of **high volatility and positive overall performance**. Although GAMMA experienced several rises and falls throughout the period and had the greatest average daily range of **13.80**, it still ended the period higher than it started, with an overall return of approximately **6.97%**. I found this interesting because high price fluctuations did not prevent the stock from achieving an overall gain.
 
