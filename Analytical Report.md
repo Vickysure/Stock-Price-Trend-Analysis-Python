@@ -1,3 +1,6 @@
+# Analytical Report on the **Stock Price Trend Analysis** Project with **Python**
+---
+
 ## Introduction
 Stock markets generate large volumes of numerical data every trading day, but numbers alone do not tell a story. This report interprets the results produced by the Stock Price Trend Analysis System, built to answer a simple but important question. What happened to the stocks **ALPHA, BETA, and GAMMA** over ten trading days, and what the stock price movements actually mean.
 
