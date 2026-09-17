@@ -122,3 +122,16 @@ Future versions of this project could replace the manually entered dataset with 
 ## Author
 Ukachi Victor Chiemela,Team Member, together with the Stock Price Trend Analysis team of five members, SmartBizCrux Python Study Group.
 
+## Connect With Me
+
+**Victor Ukachi**
+
+Aspiring Data Analyst | Python Learner
+
+- LinkedIn: *(https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8yvO3gtERtmYv6oGpJ8AnA%3D%3D)*
+- GitHub: *(Vickysure)*
+
+---
+
+⭐ If you found this project interesting, feel free to star the repository or connect with me as I continue documenting my learning journey.
+
