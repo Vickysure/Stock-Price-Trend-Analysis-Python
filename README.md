@@ -123,7 +123,7 @@ Future versions of this project could replace the manually entered dataset with 
 Ukachi Victor Chiemela,Team Member, together with the Stock Price Trend Analysis team of five members, at SmartBizCrux Python Study Group.
 
 ## ACKNOWLEDGEMENTS
-A Heart full of gratitude towards my team members, especially my Team Captain, for making the project seamless to build and document.
+A Heart full of gratitude towards my team members, especially my Team Captain; Mr. Obadamilare, for making the project seamless to build and document.
 And also to SmartBixCrux Technologies and Coach Timothy Amaefule for providing the platform of knowledge ( the PYTHON STUDY GROUP) that gave me the ability to understand and be a part of this Group Project.
 
 ## Connect With Me
