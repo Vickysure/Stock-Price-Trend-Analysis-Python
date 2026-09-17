@@ -77,7 +77,7 @@ Variables, data types, strings, arithmetic operators, comparison operators, logi
 <img src="./screenshots/Analyse Beta.png" width="900">
 </p>
 <p align="center">
-<img src="./screenshot/Analyse Beta 2.png" width="900">
+<img src="./screenshots/Analyse Beta 2.png" width="900">
 </p>
 
 #### GAMMA Stock Analysis
@@ -95,7 +95,7 @@ Variables, data types, strings, arithmetic operators, comparison operators, logi
 
 #### Successful Run of the Program
 <p align="center">
-<img src="./screenshots/successful run.png" width="900">
+<img src="./screenshots/sucessful run.png" width="900">
 </p>
 
 
