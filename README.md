@@ -120,7 +120,11 @@ Future versions of this project could replace the manually entered dataset with 
 5. Follow the on screen menu to analyze individual stocks, compare stocks, or view volume summaries.
 
 ## Author
-Ukachi Victor Chiemela,Team Member, together with the Stock Price Trend Analysis team of five members, SmartBizCrux Python Study Group.
+Ukachi Victor Chiemela,Team Member, together with the Stock Price Trend Analysis team of five members, at SmartBizCrux Python Study Group.
+
+## ACKNOWLEDGEMENTS
+A Heart full of gratitude towards my team members, especially my Team Captain, for making the project seamless to build and document.
+And also to SmartBixCrux Technologies and Coach Timothy Amaefule for providing the platform of knowledge ( the PYTHON STUDY GROUP) that gave me the ability to understand and be a part of this Group Project.
 
 ## Connect With Me
 
@@ -132,6 +136,7 @@ Aspiring Data Analyst | Python Learner
 - GitHub: *(Vickysure)*
 
 ---
+> **Another step in my journey toward becoming a better Data Analyst — learning, building, documenting, and improving one project at a time.**
 
-⭐ If you found this project interesting, feel free to star the repository or connect with me as I continue documenting my learning journey.
+If you found this project interesting, feel free to star the repository or connect with me as I continue documenting my learning journey.
 
