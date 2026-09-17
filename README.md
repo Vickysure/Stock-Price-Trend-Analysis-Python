@@ -2,7 +2,7 @@
 A Python Group Project based on a system that analyzes historical stock price data for three simulated African market stocks, ALPHA, BETA, and GAMMA, across ten trading days. This Project was built as part of the SmartBizCrux Technologies Python Study Group, under Coach Amaefule Chukwuemeka Timothy, using only core Python fundamentals, variables, data types, operators, conditions, loops, nested loops, and user defined functions. No external libraries such as Pandas, NumPy, or Matplotlib were used.
 
 ## Business Problem
-Lets Assume an African Financial and Market Intelligence firm hired a Junior Data Analyst, and then management wants to understand historical price movements across a selected list of companies and needs answers to questions such as which company's stock performed strongest, which was most volatile, and what the overall trend looked like across the observation period. This project answers those questions using Python.
+Lets assume an African Financial and Market Intelligence firm hired a Junior Data Analyst, and then management wants to understand historical price movements across a selected list of companies and needs answers to questions such as which company's stock performed strongest, which was most volatile, and what the overall trend looked like across the observation period. This project answers those questions using Python.
 
 ## Project Objectives
 The program is designed to:
